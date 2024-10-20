@@ -1,0 +1,24 @@
+.jdxwbox{position:relative; margin-top:40px;}
+.jdxwbox .titb{ height:40px; line-height:40px;}
+.jdxwbox .titb .bt{ background:#ffffff url(../images/tit1.png) 15px 2px no-repeat; font-size:27px; text-indent:115px; width:240px; float:left; margin-left:510px;}
+.line1{ height:1px; background-color:#cccccc; width:100%; position:absolute; z-index:-1; top:20px;}
+.more1{ font-size:16px; color:#666666; float:right; background-color:#ffffff; padding-left:20px;}
+.more1 a{color:#666666;}
+.more1 a:hover{color:#c30502;}
+.jdxwbox .cont{ margin-top:30px;}
+.jdxwbox .contpic{ width:650px; float:left; margin-top:15px;height:502px;}
+.jdxwbox .contpictu{ width:650px; height:487px; position:relative;overflow:hidden;}
+.jdxwbox .contpictu img{ width:650px; height:487px;transition: all 0.5s ease-in-out;}
+.jdxwbox .contpictu a:hover img{-webkit-transform:scale(1.05);-moz-transform:scale(1.05);transform:scale(1.05);opacity: 0.85;}
+.jdxwbox .contpic .imgbt{ width:600px; height:75px; border-bottom:3px #c30502 solid; background-color:#fff; text-align:center; font-size:16px; position:relative; z-index:9; line-height:75px; bottom:50px; left:25px;}
+.jdxwbox .contwz{ float:right; width:630px;}
+.jdxwbox .contwz ul{ margin-top:15px;}
+.jdxwbox .contwz ul li{ margin-left:18px; float:left;border:1px solid #eeeeee; width:252px; height:128px; line-height:28px; padding:13px 20px;}
+.jdxwbox .contwz ul li .date{ background:url(../images/line2.png) 35px -3px no-repeat; color:#222222; font-size:12px; margin-bottom:7px;}
+.jdxwbox .contwz ul li .date span{ color:#f29a3b; font-size:28px; margin-right:30px;}
+.jdxwbox .contwz .jdbg1{ background:#fffcfd url(../images/jdxw1.png) right bottom no-repeat;}
+.jdxwbox .contwz .jdbg2{ background:#fffcfd url(../images/jdxw2.png) right bottom no-repeat;}
+.jdxwbox .contwz .jdbg3{ background:#fffcfd url(../images/jdxw3.png) right bottom no-repeat; margin-top:15px;}
+.jdxwbox .contwz .jdbg4{ background:#fffcfd url(../images/jdxw4.png) right bottom no-repeat; margin-top:15px;}
+.jdxwbox .contwz .jdbg5{ background:#fffcfd url(../images/jdxw5.png) right bottom no-repeat; margin-top:15px;}
+.jdxwbox .contwz .jdbg6{ background:#fffcfd url(../images/jdxw6.png) right bottom no-repeat; margin-top:15px;}
